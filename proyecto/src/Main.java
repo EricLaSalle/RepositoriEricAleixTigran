@@ -5,6 +5,9 @@ public class Main {
         int carmels = 0;
         int nets = 0;
         int sobrants =0;
+        //Inici Scanner
+        Scanner sc = new Scanner(System.in);
+        //Inici codigo
+        carmels = sc.nextInt();
     }
-    //Tigram
 }
